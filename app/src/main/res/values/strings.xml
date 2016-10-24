@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lesson_1024_2</string>
+    <string-array name = "animal">
+        <item>老虎</item>
+        <item>獅子</item>
+        <item>喵喵</item>
+        <item>蜥蜴</item>
+        <item>蛇</item>
+    </string-array>
+</resources>
